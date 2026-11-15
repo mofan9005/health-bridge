@@ -1,0 +1,7 @@
+{
+  "name": "health-bridge-worker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Cloudflare Pages Functions relay for Apple Health exports",
+  "devDependencies": { "wrangler": "^4" }
+}

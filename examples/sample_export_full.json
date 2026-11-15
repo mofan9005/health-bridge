@@ -1,0 +1,15 @@
+{
+ "schema": 1,
+ "exported_at": "2026-11-15T08:30:04+08:00",
+ "tz": "Asia/Shanghai",
+ "window_hours": 24,
+ "device": "iPhone",
+ "vo2max": "42.8 mL/min·kg",
+ "hrv": "48.2 ms\n55.1 ms\n61.4 ms\n39.8 ms",
+ "resting_hr": "54 count/min",
+ "respiratory_rate": "14.2 count/min\n14.8 count/min\n15.1 count/min",
+ "steps": "412 count\n1,208 count\n96 count\n3,350 count",
+ "active_energy": "35.2 kcal\n88.0 kcal\n12.5 kcal",
+ "spo2": "0.97\n0.96\n0.98",
+ "sleep": "在床|2026-11-14T23:10:00+08:00|2026-11-15T06:55:00+08:00|Apple Watch\n核心|2026-11-14T23:22:00+08:00|2026-11-15T00:40:00+08:00|Apple Watch\n深度|2026-11-15T00:40:00+08:00|2026-11-15T01:35:00+08:00|Apple Watch\n核心|2026-11-15T01:35:00+08:00|2026-11-15T03:05:00+08:00|Apple Watch\n快速动眼|2026-11-15T03:05:00+08:00|2026-11-15T03:50:00+08:00|Apple Watch\n清醒|2026-11-15T03:50:00+08:00|2026-11-15T03:58:00+08:00|Apple Watch\n核心|2026-11-15T03:58:00+08:00|2026-11-15T05:40:00+08:00|Apple Watch\n深度|2026-11-15T05:40:00+08:00|2026-11-15T06:10:00+08:00|Apple Watch\n快速动眼|2026-11-15T06:10:00+08:00|2026-11-15T06:50:00+08:00|Apple Watch"
+}
